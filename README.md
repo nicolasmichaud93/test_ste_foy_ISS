@@ -6,6 +6,8 @@ Contributeurs été 2024
 - Alexandre Bérubé
 - Mélissa Bédard 
 - Francesco Mejia Solari
-- Derrick Tamfu
+- Tarik Ait Oumasste
 - David Gagnon
 - Don Nick Munezero
+- Derrick Tamfu
+
